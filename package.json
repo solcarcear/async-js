@@ -1,0 +1,24 @@
+{
+  "name": "async-js",
+  "version": "1.0.0",
+  "description": "Practicing asynchronism JS",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/solcarcear/async-js.git"
+  },
+  "keywords": [
+    "callbacks",
+    "promise",
+    "async"
+  ],
+  "author": "Carlos Arce",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/solcarcear/async-js/issues"
+  },
+  "homepage": "https://github.com/solcarcear/async-js#readme"
+}
